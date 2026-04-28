@@ -69,10 +69,21 @@ No code required. Upload your data, get an interactive dashboard. Built for non-
 
 ---
 
-#### 🔐 [Password Generator](https://github.com/REKOL08/generador-de-contraseñas)
-> Secure client-side password generator — no data sent to any server
+<div align="center">
 
-`HTML` `JavaScript` `CSS`
+### ⚡ 50 Projects Challenge
+
+</div>
+
+> A personal challenge to build 50 projects across beginner, intermediate, and advanced levels.
+> Each project is fully documented, signed, and available as a standalone repo.
+
+| # | Project | Level | Stack | Repo |
+|---|---------|-------|-------|------|
+| 01 | 🔐 Password Generator | Beginner | HTML · JS · Python | [password-generator](https://github.com/REKOL08/password-generator) |
+| 02 | 🔁 Palindrome Checker | Beginner | Python | [palindrome-checker](https://github.com/REKOL08/palindrome-checker) |
+
+> More coming soon...
 
 ---
 
@@ -107,6 +118,7 @@ No code required. Upload your data, get an interactive dashboard. Built for non-
 - 🔗 Integrating **Koha REST API** into Librín for real-time catalog access
 - 📚 Building e-learning experiences on the **Odilo** platform for Areandina's community
 - 📊 Expanding Estadincho's visualization capabilities
+- ⚡ Completing the **50 Projects Challenge**
 
 ---
 
@@ -127,6 +139,6 @@ No code required. Upload your data, get an interactive dashboard. Built for non-
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
 
 </div>
