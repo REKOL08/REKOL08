@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Alejandro%20Labrada&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineering%20Student%20·%20Data%20Analyst%20·%20Library%20Tech%20Developer&descAlignY=58&descSize=16&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Alejandro%20Labrada&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineering%20Student%20·%20Library%20Analyst%20·%20Library%20Tech%20Developer&descAlignY=58&descSize=16&descColor=8b949e" />
 
 </div>
 
@@ -12,7 +12,7 @@
 
 </div>
 
-I'm a **Systems Engineering student** (6th semester) and **Data Analyst** at Fundación Universitaria del Área Andina (Areandina), where I design and build digital tools that help libraries make smarter, data-driven decisions.
+I'm a **Systems Engineering student** (6th semester) and **Library Analyst** at Fundación Universitaria del Área Andina (Areandina), where I design and build digital tools that help libraries make smarter, data-driven decisions.
 
 My work sits at the intersection of **library science**, **automation**, and **AI** — turning raw institutional data into useful systems for real people.
 
