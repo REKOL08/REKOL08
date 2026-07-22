@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Alejandro%20Labrada&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%C2%B7%20Technical%20Library%20Specialist%20%C2%B7%20Systems%20Engineer%20in%20training&descAlignY=55&descSize=15&descColor=8b949e" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+tools+for+libraries+%F0%9F%9A%80;Turning+raw+data+into+decisions+%F0%9F%93%8A;100%25+browser-based+%2F+zero-backend+by+default;Pereira+%C2%B7+Bogot%C3%A1+%C2%B7+Valledupar" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+tools+for+libraries+%F0%9F%9A%80;Turning+raw+data+into+decisions+%F0%9F%93%8A;100%25+browser-based+%2F+zero-backend+by+default;If+it+doesn%27t+run+in+the+browser%2C+it%27s+not+done+yet" alt="Typing SVG" />
 
 </div>
 
