@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/hero.gif" width="100%" alt="The dream started here — Alejandro Labrada"/>
+<img src="./childhood.jpg" width="620" alt="The dream started here — Alejandro Labrada"/>
 
 <br><br>
 
@@ -296,25 +296,40 @@ A lightweight tool for calculating an author's H-index.
 
 <div align="center">
 
-## `> product.identity`
+## `> allsoft`
 
 <br>
 
-<a href="https://github.com/REKOL08">
-<img src="./assets/logo-mark.png" width="135" alt="Product Logo"/>
+<a href="https://allsoft.pages.dev">
+<img src="./logo-mark.png" width="135" alt="ALLSoft"/>
 </a>
 
 <br><br>
 
 ### `FROM DREAM TO CREATION`
 
-**A product is being built.**
+**The product is live.**
 
-`AI`  ·  `Automation`  ·  `Technology`
+Custom software and automation for small businesses in Pereira, Colombia.
+Everything that can be given away, is given away.
 
 <br>
 
-<sub>The logo above represents the product I'm currently developing.</sub>
+<a href="https://allsoft.pages.dev">
+<img src="https://img.shields.io/badge/allsoft.pages.dev-2563EB?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://allsoft.pages.dev/paquetes"><b>12 free n8n automations</b></a>
+&nbsp;·&nbsp;
+<a href="https://allsoft.pages.dev/academia/"><b>10 step-by-step guides</b></a>
+&nbsp;·&nbsp;
+<a href="https://allsoft.pages.dev/desarrollos/"><b>10 systems built</b></a>
+
+<br><br>
+
+`AI`  ·  `Automation`  ·  `Custom software`
 
 </div>
 
