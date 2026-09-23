@@ -70,7 +70,7 @@ mission: >
 
 ### `I build at the intersection of`
 
-# 🤖 AI  ×  📚 LIBRARIES  ×  📊 DATA  ×  ⚙️ AUTOMATION
+# 🤖 AI  ×  📚 LIBRARIES  ×  📊 DATA  ×  ⚙️ AUTOMATION
 
 </div>
 
@@ -407,35 +407,27 @@ philosophy:
 
 <div align="center">
 
-## `> github.trophies`
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=REKOL08&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub trophies"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `> github.activity`
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=REKOL08&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
-
-</div>
-
----
-
-<div align="center">
-
 ## `> contribution.matrix`
 
 <br>
 
-<img src="https://raw.githubusercontent.com/REKOL08/REKOL08/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/REKOL08/REKOL08/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/REKOL08/REKOL08/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/REKOL08/REKOL08/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## `> profile.activity`
+
+<br>
+
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="GitHub profile details"/>
 
 </div>
 
@@ -447,9 +439,13 @@ philosophy:
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=REKOL08&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="180" alt="GitHub statistics"/>
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub statistics"/>
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most used languages by commits"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REKOL08&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="180" alt="Top languages"/>
+<br>
+
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repositories per language"/>
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive time"/>
 
 </div>
 
@@ -462,30 +458,6 @@ philosophy:
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=REKOL08&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="70%" alt="GitHub streak"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `> profile.activity`
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=REKOL08&theme=github_dark" width="100%" alt="GitHub profile activity"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `> contribution.snake`
-
-<br>
-
-<img src="https://raw.githubusercontent.com/REKOL08/REKOL08/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Animated contribution snake"/>
 
 </div>
 
