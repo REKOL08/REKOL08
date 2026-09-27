@@ -82,7 +82,7 @@ mission: >
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,fastapi,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css,nodejs,fastapi,mysql,git,github,vscode" />
 
 <br><br>
 
@@ -93,6 +93,8 @@ mission: >
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 
 </div>
 
@@ -291,6 +293,35 @@ A lightweight tool for calculating an author's H-index.
 </tr>
 
 </table>
+
+---
+
+<div align="center">
+
+## `> more.builds`
+
+<br>
+
+</div>
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**BIBLIONOVA**](https://github.com/REKOL08/BIBLIONOVA) | Interactive dashboard for the BiblioNova Ecosystem, presented at CIBIC 2026 (Cali, Colombia) — 12 AI, innovation and automation projects from Areandina Libraries | `HTML` `Data Viz` |
+| [**AI-engine-rag**](https://github.com/REKOL08/AI-engine-rag) | Multi-tenant RAG engine for AI sales agents — Hugging Face, ChromaDB, Ollama/Qwen2.5 | `Python` `FastAPI` `ChromaDB` `Ollama` |
+| [**fastapi-ecommerce**](https://github.com/REKOL08/fastapi-ecommerce) | REST API with JWT authentication, roles and product CRUD | `FastAPI` `MySQL` `JWT` |
+| [**remotedesk**](https://github.com/REKOL08/remotedesk) | Remote PC control from any mobile browser — mouse, keyboard and live screen over WebSocket, no app install | `Python` `WebSocket` |
+| [**proyecto-bogota-omniroute**](https://github.com/REKOL08/proyecto-bogota-omniroute) | Deployment log for OmniRoute — Oracle Cloud Always Free setup and USB kit | `Shell` `Oracle Cloud` |
+| [**laboratorio-matching-rrhh**](https://github.com/REKOL08/laboratorio-matching-rrhh) | Candidate–job matching prototype for HR, scoring compatibility by skills, experience and education — 100% browser-based | `JavaScript` `No Backend` |
+
+<div align="center">
+
+<br>
+
+<a href="https://github.com/REKOL08?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
