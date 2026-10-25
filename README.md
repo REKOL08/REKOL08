@@ -112,9 +112,10 @@ I am expanding my foundations through structured coursework and practical exampl
 | --- | --- | --- |
 | Generative AI | LLM fundamentals, prompt design, diffusion models and evaluation of AI outputs | `Generative AI` · `LLMs` · `Prompt Engineering` |
 | Responsible AI | Human–AI collaboration, governance, transparency and critical review | `Responsible AI` · `AI Fluency` · `AI Governance` |
-| Cloud fundamentals | Digital transformation, cloud service models and shared responsibility | `Google Cloud` · `Cloud Computing` · `Digital Transformation` |
+| Cloud and data fundamentals | Digital transformation, cloud service models, shared responsibility and data governance concepts | `Google Cloud` · `Cloud Computing` · `Data Fundamentals` |
 | Automation | Custom spreadsheet functions, data normalization and reproducible examples | `Google Apps Script` · `Google Sheets` · `JavaScript` |
 | Programming and web | Python variables and functions; C# console programs; HTML/CSS/JavaScript interfaces | `Python Fundamentals` · `C#` · `HTML` · `CSS` · `JavaScript` |
+| Accessible web interfaces | Semantic HTML, contrast and keyboard navigation fundamentals | `Web Accessibility` · `a11y` · `Semantic HTML` |
 
 ### Credenciales obtenidas · Completed learning
 
@@ -127,13 +128,15 @@ Course-completion badges and Microsoft Learn module achievements obtained in Oct
 | Google Skills | [Responsible AI: Applying AI Principles with Google Cloud](https://www.skills.google/course_templates/388) | Completion badge |
 | Google Skills | [Introduction to Image Generation](https://www.skills.google/course_templates/541) | Completion badge |
 | Google Skills | [Digital Transformation with Google Cloud](https://www.skills.google/course_templates/266) | Completion badge |
+| Google Skills | [Exploring Data Transformation with Google Cloud](https://www.skills.google/course_templates/267) | Completion badge |
 | Anthropic · Claude Academy | [AI Fluency: Framework and foundations](https://academy.claude.com/courses/ai-fluency-framework-foundations) | Completion badge |
 | Microsoft Learn | [Write your first C# code](https://learn.microsoft.com/en-us/training/modules/csharp-write-first/) | Module achievement |
 | Microsoft Learn | [Introduction to web development using Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/get-started-with-web-development/) | Module achievement |
+| Microsoft Learn | [Web accessibility fundamentals](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility/) | Module achievement |
 
 ### Formación en curso · Continuing learning
 
-**Python programming**, **cybersecurity fundamentals**, **network security**, **web accessibility** and **Google Cloud data fundamentals** are continuing study areas. My current practice focuses on functions, control flow, secure data handling and accessible web interfaces.
+**Python programming**, **cybersecurity fundamentals**, **network security** and **backend development** are continuing study areas. My current practice focuses on functions, control flow, secure data handling and accessible web interfaces.
 
 ---
 
