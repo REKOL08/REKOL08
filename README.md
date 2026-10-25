@@ -133,6 +133,7 @@ Course-completion badges and Microsoft Learn module achievements obtained in Oct
 | Microsoft Learn | [Write your first C# code](https://learn.microsoft.com/en-us/training/modules/csharp-write-first/) | Module achievement |
 | Microsoft Learn | [Introduction to web development using Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/get-started-with-web-development/) | Module achievement |
 | Microsoft Learn | [Web accessibility fundamentals](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility/) | Module achievement |
+| Microsoft Learn | [Introduction to Git](https://learn.microsoft.com/en-us/training/modules/intro-to-git/) | Module achievement |
 
 ### Formación en curso · Continuing learning
 
