@@ -100,6 +100,45 @@ mission: >
 
 <div align="center">
 
+## `> competencies & learning credentials`
+
+</div>
+
+### Competencias en desarrollo · Learning foundations
+
+I am expanding my foundations through structured coursework and practical examples that connect AI, automation and web development with library and research technology.
+
+| Area | Learning scope and practical focus | Keywords |
+| --- | --- | --- |
+| Generative AI | LLM fundamentals, prompt design, diffusion models and evaluation of AI outputs | `Generative AI` · `LLMs` · `Prompt Engineering` |
+| Responsible AI | Human–AI collaboration, governance, transparency and critical review | `Responsible AI` · `AI Fluency` · `AI Governance` |
+| Cloud fundamentals | Digital transformation, cloud service models and shared responsibility | `Google Cloud` · `Cloud Computing` · `Digital Transformation` |
+| Automation | Custom spreadsheet functions, data normalization and reproducible examples | `Google Apps Script` · `Google Sheets` · `JavaScript` |
+| Programming and web | Python variables and functions; C# console programs; HTML/CSS/JavaScript interfaces | `Python Fundamentals` · `C#` · `HTML` · `CSS` · `JavaScript` |
+
+### Credenciales obtenidas · Completed learning
+
+Course-completion badges and Microsoft Learn module achievements obtained in October 2026. The links below describe the official training and its scope.
+
+| Provider | Completed course or module | Recognition |
+| --- | --- | --- |
+| Google Skills | [Introduction to Generative AI](https://www.skills.google/course_templates/536) | Completion badge |
+| Google Skills | [Introduction to Large Language Models](https://www.skills.google/course_templates/539) | Completion badge |
+| Google Skills | [Responsible AI: Applying AI Principles with Google Cloud](https://www.skills.google/course_templates/388) | Completion badge |
+| Google Skills | [Introduction to Image Generation](https://www.skills.google/course_templates/541) | Completion badge |
+| Google Skills | [Digital Transformation with Google Cloud](https://www.skills.google/course_templates/266) | Completion badge |
+| Anthropic · Claude Academy | [AI Fluency: Framework and foundations](https://academy.claude.com/courses/ai-fluency-framework-foundations) | Completion badge |
+| Microsoft Learn | [Write your first C# code](https://learn.microsoft.com/en-us/training/modules/csharp-write-first/) | Module achievement |
+| Microsoft Learn | [Introduction to web development using Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/get-started-with-web-development/) | Module achievement |
+
+### Formación en curso · Continuing learning
+
+**Python programming**, **cybersecurity fundamentals**, **network security**, **web accessibility** and **Google Cloud data fundamentals** are continuing study areas. My current practice focuses on functions, control flow, secure data handling and accessible web interfaces.
+
+---
+
+<div align="center">
+
 ## `> what.i.build`
 
 </div>
