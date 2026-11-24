@@ -1,127 +1,27 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Alejandro Labrada — IA, bibliotecas, datos y automatización"/>
+<img src="https://komarev.com/ghpvc/?username=REKOL08&label=Profile+Views&color=0ea5e9&style=flat-square" alt="Profile views"/>
+<a href="https://github.com/REKOL08"><img src="https://img.shields.io/github/followers/REKOL08?label=Followers&style=flat-square&logo=github&logoColor=white&color=1d4ed8" alt="Followers"/></a>
 
-<br>
+<img src="./assets/hero.svg" width="100%" alt="Alejandro Labrada — AI Developer · Library Technology"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=AI+DEVELOPER;LIBRARY+TECHNOLOGY+SPECIALIST;DATA+%C3%97+AUTOMATION+%C3%97+ARTIFICIAL+INTELLIGENCE" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&height=50&lines=AI+DEVELOPER;LIBRARY+TECHNOLOGY+SPECIALIST;DATA+%C3%97+AUTOMATION+%C3%97+ARTIFICIAL+INTELLIGENCE" alt="Typing animation"/>
 
-<br>
-
-<img src="./childhood.jpg" width="420" alt="The dream started here — Alejandro Labrada"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=7DD3FC&center=true&vCenter=true&width=760&height=40&lines=The+dream+started+here.;Now+I'm+building+it.;Building+technology+for+libraries%2C+research+and+education." alt="Animated description"/>
-
-<br><br>
-
-<a href="https://github.com/REKOL08"><img src="https://img.shields.io/github/followers/REKOL08?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0EA5E9"/></a>
-<a href="https://github.com/REKOL08?tab=repositories"><img src="https://img.shields.io/github/stars/REKOL08?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=1D4ED8"/></a>
 <a href="https://orcid.org/0009-0007-1830-1054"><img src="https://img.shields.io/badge/ORCID-0009--0007--1830--1054-0369A1?style=for-the-badge&logo=orcid&logoColor=white"/></a>
 <a href="https://linkedin.com/in/alejandro-labrada-jimenez-a79768253"><img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Labrada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=REKOL08&label=VISITAS&color=0ea5e9&style=for-the-badge"/>
+<a href="https://allsoft.pages.dev"><img src="https://img.shields.io/badge/ALLSoft-allsoft.pages.dev-2563EB?style=for-the-badge&logo=cloudflare&logoColor=white"/></a>
 
 <br><br>
 
-**[Sobre mí](#-sobre-mí) · [Stack](#️-stack) · [Proyectos](#-proyectos-destacados) · [ALLSoft](#-allsoft) · [Experiencia](#-experiencia) · [Formación](#-formación) · [Actividad](#-actividad) · [Contacto](#-contacto)**
+<img src="./assets/stats.svg" width="100%" alt="Repositorios, estrellas, automatizaciones y sistemas"/>
+
+<img src="./assets/stack.svg" width="100%" alt="Tech stack"/>
+
+<img src="./assets/ai.svg" width="100%" alt="Artificial Intelligence × Libraries"/>
 
 </div>
 
----
-
-## 👤 Sobre mí
-
-<div align="center">
-
-# 🤖 IA &nbsp;×&nbsp; 📚 BIBLIOTECAS &nbsp;×&nbsp; 📊 DATOS &nbsp;×&nbsp; ⚙️ AUTOMATIZACIÓN
-
-</div>
-
-```yaml
-name: Alejandro Labrada
-role: AI Developer & Technical Library Specialist
-organization: Fundación Universitaria del Área Andina — Areandina
-team: BIDIG · Library Innovation
-education: Systems Engineering — 7th semester
-location: Colombia
-
-mission: >
-  Turn institutional data, repetitive workflows and information
-  resources into useful technology for people.
-```
-
----
-
-## 🛠️ Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,fastapi,git,github,vscode,n8n" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Pandas-1D4ED8?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chart.js-0EA5E9?style=for-the-badge&logo=chart.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Sheets-0369A1?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apps%20Script-1E40AF?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-0C4A6E?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-38BDF8?style=for-the-badge&logo=anthropic&logoColor=white"/>
-
-</div>
-
----
-
-## 🧩 Qué construyo
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Inteligencia artificial
-Asistentes, flujos inteligentes y herramientas de apoyo a la investigación.
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Tecnología para bibliotecas
-Servicios digitales, automatización de repositorios, chatbots y catálogos.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Datos y analítica
-Motores estadísticos, dashboards y análisis directamente en el navegador.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔎 Bibliometría
-H-index, producción científica, Lotka, Bradford y visualización.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Automatización
-APIs, n8n y servicios de Google para eliminar tareas repetitivas.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Aplicaciones web
-Rápidas, accesibles y pensadas para usuarios reales.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Proyectos destacados
+<img src="./assets/h-projects.svg" width="100%" alt="Proyectos"/>
 
 <table>
 <tr>
@@ -129,7 +29,6 @@ Rápidas, accesibles y pensadas para usuarios reales.
 
 ### 📊 AnalisisCuant
 **Motor de estadística cuantitativa, 100% en el navegador.**
-
 Descriptivos, pruebas t, ANOVA, correlaciones, alfa de Cronbach y regresión.
 
 `JavaScript` `Chart.js` `Sin backend`
@@ -141,8 +40,7 @@ Descriptivos, pruebas t, ANOVA, correlaciones, alfa de Cronbach y regresión.
 
 ### 📚 BibliometriX
 **Análisis bibliométrico en el navegador.**
-
-Exportaciones de Scopus / Web of Science, índices h y g, leyes de Lotka y Bradford, coautoría.
+Scopus / Web of Science, índices h y g, leyes de Lotka y Bradford, coautoría.
 
 `Bibliometría` `Visualización` `Scopus`
 
@@ -154,8 +52,7 @@ Exportaciones de Scopus / Web of Science, índices h y g, leyes de Lotka y Bradf
 <td width="50%" valign="top">
 
 ### 🤖 Librín
-**Chatbot de biblioteca con IA y sistema de reservas.**
-
+**Chatbot de biblioteca con IA y reservas.**
 Disponibilidad, renovaciones, reservas y rutas por sede.
 
 `Node.js` `n8n` `Google Sheets` `IA`
@@ -166,9 +63,8 @@ Disponibilidad, renovaciones, reservas y rutas por sede.
 <td width="50%" valign="top">
 
 ### 📈 Estadincho
-**Plataforma de visualización interactiva.**
-
-Sube un Excel o CSV y obtén un dashboard sin escribir código.
+**Visualización interactiva sin código.**
+Sube un Excel o CSV y obtén un dashboard.
 
 `Python` `Dashboard`
 
@@ -180,9 +76,8 @@ Sube un Excel o CSV y obtén un dashboard sin escribir código.
 <td width="50%" valign="top">
 
 ### 🗂️ Digitk
-**Automatización de cargue al repositorio institucional.**
-
-Formularios, procesamiento de PDF, organización en Drive y notificaciones.
+**Cargue automatizado al repositorio institucional.**
+Formularios, PDF, organización en Drive y notificaciones.
 
 `Apps Script` `Automatización`
 
@@ -192,9 +87,8 @@ Formularios, procesamiento de PDF, organización en Drive y notificaciones.
 <td width="50%" valign="top">
 
 ### 🖥️ RemoteDesk
-**Controla tu PC desde el navegador del celular.**
-
-Mouse, teclado y pantalla en vivo por WebSocket, sin instalar app.
+**Tu PC desde el navegador del celular.**
+Mouse, teclado y pantalla en vivo por WebSocket.
 
 `Python` `WebSocket`
 
@@ -207,8 +101,7 @@ Mouse, teclado y pantalla en vivo por WebSocket, sin instalar app.
 
 ### 🎓 Aula universitaria Colombia
 **Herramientas abiertas, sin instalación.**
-
-Consultas, ejercicios paso a paso, estadística y conversión de unidades.
+Consultas, ejercicios paso a paso y estadística.
 
 `HTML` `JavaScript`
 
@@ -217,10 +110,9 @@ Consultas, ejercicios paso a paso, estadística y conversión de unidades.
 </td>
 <td width="50%" valign="top">
 
-### 🧪 Laboratorio de matching RRHH
+### 🧪 Matching RRHH
 **Compatibilidad candidato–vacante.**
-
-Índice por competencias, experiencia y formación, 100% en el navegador.
+Índice por competencias, experiencia y formación.
 
 `HTML` `JavaScript`
 
@@ -230,74 +122,40 @@ Consultas, ejercicios paso a paso, estadística y conversión de unidades.
 </tr>
 </table>
 
----
-
-## 🌐 ALLSoft
+<img src="./assets/h-allsoft.svg" width="100%" alt="ALLSoft"/>
 
 <div align="center">
 
 <a href="https://allsoft.pages.dev"><img src="./logo-mark.png" width="120" alt="ALLSoft"/></a>
 
-### `FROM DREAM TO CREATION`
-
 **El producto ya está en línea.** Software a la medida y automatización para pequeños negocios en Pereira, Colombia.
 
-<a href="https://allsoft.pages.dev"><img src="https://img.shields.io/badge/allsoft.pages.dev-2563EB?style=for-the-badge&logo=cloudflare&logoColor=white"/></a>
-
-<br><br>
-
-<a href="https://allsoft.pages.dev/paquetes"><b>12 automatizaciones n8n gratis</b></a>
-&nbsp;·&nbsp;
-<a href="https://allsoft.pages.dev/academia/"><b>10 guías paso a paso</b></a>
-&nbsp;·&nbsp;
+<a href="https://allsoft.pages.dev/paquetes"><b>12 automatizaciones n8n gratis</b></a> &nbsp;·&nbsp;
+<a href="https://allsoft.pages.dev/academia/"><b>10 guías paso a paso</b></a> &nbsp;·&nbsp;
 <a href="https://allsoft.pages.dev/desarrollos/"><b>10 sistemas construidos</b></a>
 
 </div>
 
----
-
-## 💼 Experiencia
+<img src="./assets/h-experience.svg" width="100%" alt="Experiencia"/>
 
 ### Fundación Universitaria del Área Andina — Areandina
-**AI Developer · Technical Library Specialist** &nbsp;`BIDIG · Library Innovation Team`
+**AI Developer · Technical Library Specialist** &nbsp;`BIDIG · Library Innovation Team` &nbsp;·&nbsp; Ingeniería de Sistemas, 7.º semestre
 
-```text
-                    LIBRARY TECHNOLOGY
-                           │
-          ┌────────────────┼────────────────┐
-          ▼                ▼                ▼
-         AI              DATA          AUTOMATION
-          └────────────────┼────────────────┘
-                           ▼
-                  RESEARCH TECHNOLOGY
-                           ▼
-                      REAL USERS
-```
-
-- 🤖 Asistentes de IA y chatbots
-- 📚 Servicios digitales de biblioteca
-- ⚙️ Automatización de flujos de trabajo
-- 📊 Análisis y visualización de datos
-- 🔎 Herramientas bibliométricas
-- 🗂️ Flujos del repositorio institucional
-
-### 🔨 Construyendo ahora
+- 🤖 Asistentes de IA y chatbots · 📚 Servicios digitales de biblioteca
+- ⚙️ Automatización de flujos · 📊 Análisis y visualización de datos
+- 🔎 Herramientas bibliométricas · 🗂️ Flujos del repositorio institucional
 
 ```yaml
-now:
+building_now:
   - Integración con la API REST de Koha
   - Acceso al catálogo en tiempo real para Librín
   - Experiencias e-learning en Odilo
   - Capa de visualización de Estadincho
-  - Herramientas de IA para servicios de biblioteca
   - 50 Projects Challenge
-
 philosophy: [build, test, automate, document, improve]
 ```
 
----
-
-## 🎓 Formación
+<img src="./assets/h-learning.svg" width="100%" alt="Formación"/>
 
 <details>
 <summary><b>📖 Competencias en desarrollo</b></summary>
@@ -339,9 +197,7 @@ philosophy: [build, test, automate, document, improve]
 
 </details>
 
----
-
-## 📈 Actividad
+<img src="./assets/h-activity.svg" width="100%" alt="Actividad"/>
 
 <div align="center">
 
@@ -351,44 +207,18 @@ philosophy: [build, test, automate, document, improve]
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/REKOL08/REKOL08/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
-<br><br>
-
 <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="GitHub profile details"/>
 
-<br>
-
 <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub statistics"/>
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most used languages by commits"/>
-
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Languages by commits"/>
 <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repositories per language"/>
 <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive time"/>
-
-<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=REKOL08&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8" width="70%" alt="GitHub streak"/>
 
 </div>
 
----
-
-## 💡 Filosofía
-
-<div align="center">
-
-```text
- Si la tecnología puede quitar una tarea repetitiva   →  AUTOMATÍZALA.
- Si los datos pueden responder la pregunta            →  VISUALÍZALOS.
- Si la IA puede mejorar el flujo de trabajo           →  INTÉGRALA.
- Si el usuario necesita entender lo complejo          →  SIMPLIFÍCALO.
-```
-
-### Construyendo tecnología que hace la información más fácil de usar.
-
-</div>
-
----
-
-## 📬 Contacto
+<img src="./assets/h-contact.svg" width="100%" alt="Contacto"/>
 
 <div align="center">
 
@@ -396,12 +226,6 @@ philosophy: [build, test, automate, document, improve]
 <a href="https://linkedin.com/in/alejandro-labrada-jimenez-a79768253"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/REKOL08"><img src="https://img.shields.io/badge/GitHub-1E40AF?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=35&lines=AI+%C3%97+DATA+%C3%97+LIBRARIES+%C3%97+AUTOMATION;Build+something+useful.;The+dream+started+here." alt="Closing animation"/>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0b1f4d,100:0ea5e9&height=120&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%" alt="The dream started here. Now I'm building it."/>
 
 </div>
