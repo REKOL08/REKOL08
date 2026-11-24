@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#0b1f4d"/>
+      <stop offset="1" stop-color="#0a3a8a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="txt" x1="0" x2="1">
+      <stop offset="0" stop-color="#e0f2fe"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <circle cx="600" cy="170" r="240" fill="url(#glow)">
+    <animate attributeName="r" values="210;260;210" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <g stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.45" fill="none" stroke-dasharray="6 8">
+    <animate attributeName="stroke-dashoffset" values="0;-56" dur="3s" repeatCount="indefinite"/>
+    <path d="M60 70 L240 140 L420 50 L600 120 L780 40 L960 120 L1140 60"/>
+    <path d="M60 280 L240 215 L430 290 L620 220 L800 295 L990 225 L1150 285"/>
+    <path d="M240 140 L240 215 M420 50 L430 290 M780 40 L800 295 M960 120 L990 225"/>
+  </g>
+  <g fill="#7dd3fc">
+    <circle cx="60" cy="70" r="5"><animate attributeName="opacity" values="1;.2;1" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="240" cy="140" r="6"><animate attributeName="opacity" values="1;.2;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="420" cy="50" r="5"><animate attributeName="opacity" values="1;.2;1" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="120" r="6"><animate attributeName="opacity" values="1;.2;1" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="780" cy="40" r="5"><animate attributeName="opacity" values="1;.2;1" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="960" cy="120" r="6"><animate attributeName="opacity" values="1;.2;1" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1140" cy="60" r="5"><animate attributeName="opacity" values="1;.2;1" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="60" cy="280" r="5"><animate attributeName="opacity" values="1;.2;1" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="240" cy="215" r="6"><animate attributeName="opacity" values="1;.2;1" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="430" cy="290" r="5"><animate attributeName="opacity" values="1;.2;1" dur="3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="620" cy="220" r="6"><animate attributeName="opacity" values="1;.2;1" dur="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="800" cy="295" r="5"><animate attributeName="opacity" values="1;.2;1" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="990" cy="225" r="6"><animate attributeName="opacity" values="1;.2;1" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="1150" cy="285" r="5"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></circle>
+  </g>
+  <circle r="5" fill="#fff"><animateMotion dur="7s" repeatCount="indefinite" path="M60 70 L240 140 L420 50 L600 120 L780 40 L960 120 L1140 60"/></circle>
+  <circle r="5" fill="#bae6fd"><animateMotion dur="8s" repeatCount="indefinite" path="M60 280 L240 215 L430 290 L620 220 L800 295 L990 225 L1150 285"/></circle>
+  <text x="600" y="160" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="800" fill="url(#txt)">ALEJANDRO LABRADA</text>
+  <text x="600" y="210" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#bae6fd" letter-spacing="5">IA · BIBLIOTECAS · DATOS · AUTOMATIZACIÓN</text>
+</svg>

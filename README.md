@@ -1,46 +1,40 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                         ANIMATED HERO                           -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="./childhood.jpg" width="620" alt="The dream started here — Alejandro Labrada"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&height=65&lines=ALEJANDRO+LABRADA;AI+DEVELOPER;LIBRARY+TECHNOLOGY+SPECIALIST;DATA+%C3%97+AUTOMATION+%C3%97+ARTIFICIAL+INTELLIGENCE" alt="Animated introduction"/>
+<img src="./assets/banner.svg" width="100%" alt="Alejandro Labrada — IA, bibliotecas, datos y automatización"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=760&height=40&lines=The+dream+started+here.;Now+I'm+building+it.;Building+technology+for+libraries%2C+research+and+education." alt="Animated description"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=AI+DEVELOPER;LIBRARY+TECHNOLOGY+SPECIALIST;DATA+%C3%97+AUTOMATION+%C3%97+ARTIFICIAL+INTELLIGENCE" alt="Animated introduction"/>
+
+<br>
+
+<img src="./childhood.jpg" width="420" alt="The dream started here — Alejandro Labrada"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=7DD3FC&center=true&vCenter=true&width=760&height=40&lines=The+dream+started+here.;Now+I'm+building+it.;Building+technology+for+libraries%2C+research+and+education." alt="Animated description"/>
 
 <br><br>
 
-<a href="https://github.com/REKOL08">
-<img src="https://img.shields.io/github/followers/REKOL08?label=Followers&style=flat-square&logo=github&logoColor=white&color=58A6FF"/>
-</a>
+<a href="https://github.com/REKOL08"><img src="https://img.shields.io/github/followers/REKOL08?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0EA5E9"/></a>
+<a href="https://github.com/REKOL08?tab=repositories"><img src="https://img.shields.io/github/stars/REKOL08?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=1D4ED8"/></a>
+<a href="https://orcid.org/0009-0007-1830-1054"><img src="https://img.shields.io/badge/ORCID-0009--0007--1830--1054-0369A1?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+<a href="https://linkedin.com/in/alejandro-labrada-jimenez-a79768253"><img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Labrada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=REKOL08&label=VISITAS&color=0ea5e9&style=for-the-badge"/>
 
-<a href="https://github.com/REKOL08?tab=repositories">
-<img src="https://img.shields.io/github/stars/REKOL08?label=Stars&style=flat-square&logo=github&logoColor=white&color=58A6FF"/>
-</a>
+<br><br>
 
-<a href="https://orcid.org/0009-0007-1830-1054">
-<img src="https://img.shields.io/badge/ORCID-0009--0007--1830--1054?style=flat-square&logo=orcid&logoColor=white&color=A6CE39"/>
-</a>
-
-<a href="https://linkedin.com/in/alejandro-labrada-jimenez-a79768253">
-<img src="https://img.shields.io/badge/LinkedIn-Alejandro%20Labrada?style=flat-square&logo=linkedin&logoColor=white&color=0A66C2"/>
-</a>
+**[Sobre mí](#-sobre-mí) · [Stack](#️-stack) · [Proyectos](#-proyectos-destacados) · [ALLSoft](#-allsoft) · [Experiencia](#-experiencia) · [Formación](#-formación) · [Actividad](#-actividad) · [Contacto](#-contacto)**
 
 </div>
 
 ---
 
+## 👤 Sobre mí
+
 <div align="center">
 
-## `> whoami`
+# 🤖 IA &nbsp;×&nbsp; 📚 BIBLIOTECAS &nbsp;×&nbsp; 📊 DATOS &nbsp;×&nbsp; ⚙️ AUTOMATIZACIÓN
 
 </div>
 
@@ -52,153 +46,74 @@ team: BIDIG · Library Innovation
 education: Systems Engineering — 7th semester
 location: Colombia
 
-focus:
-  - Artificial Intelligence
-  - Library Technology
-  - Data Analytics
-  - Automation
-  - Bibliometrics
-  - Research Technology
-  - Web Development
-
 mission: >
   Turn institutional data, repetitive workflows and information
   resources into useful technology for people.
 ```
 
-<div align="center">
-
-### `I build at the intersection of`
-
-# 🤖 AI  ×  📚 LIBRARIES  ×  📊 DATA  ×  ⚙️ AUTOMATION
-
-</div>
-
 ---
 
+## 🛠️ Stack
+
 <div align="center">
 
-## `> tech.stack()`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,fastapi,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,fastapi,git,github,vscode,n8n" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=n8n" />
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-1D4ED8?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chart.js-0EA5E9?style=for-the-badge&logo=chart.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-0369A1?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apps%20Script-1E40AF?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-0C4A6E?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-38BDF8?style=for-the-badge&logo=anthropic&logoColor=white"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-## `> competencies & learning credentials`
-
-</div>
-
-### Competencias en desarrollo · Learning foundations
-
-I am expanding my foundations through structured coursework and practical examples that connect AI, automation and web development with library and research technology.
-
-| Area | Learning scope and practical focus | Keywords |
-| --- | --- | --- |
-| Generative AI | LLM fundamentals, prompt design, diffusion models and evaluation of AI outputs | `Generative AI` · `LLMs` · `Prompt Engineering` |
-| Responsible AI | Human–AI collaboration, governance, transparency and critical review | `Responsible AI` · `AI Fluency` · `AI Governance` |
-| Cloud and data fundamentals | Digital transformation, cloud service models, shared responsibility and data governance concepts | `Google Cloud` · `Cloud Computing` · `Data Fundamentals` |
-| Automation | Custom spreadsheet functions, data normalization and reproducible examples | `Google Apps Script` · `Google Sheets` · `JavaScript` |
-| Programming and web | Python variables and functions; C# console programs; HTML/CSS/JavaScript interfaces | `Python Fundamentals` · `C#` · `HTML` · `CSS` · `JavaScript` |
-| Accessible web interfaces | Semantic HTML, contrast and keyboard navigation fundamentals | `Web Accessibility` · `a11y` · `Semantic HTML` |
-
-### Credenciales obtenidas · Completed learning
-
-Course-completion badges and Microsoft Learn module achievements obtained in October 2026. The links below describe the official training and its scope.
-
-| Provider | Completed course or module | Recognition |
-| --- | --- | --- |
-| Google Skills | [Introduction to Generative AI](https://www.skills.google/course_templates/536) | Completion badge |
-| Google Skills | [Introduction to Large Language Models](https://www.skills.google/course_templates/539) | Completion badge |
-| Google Skills | [Responsible AI: Applying AI Principles with Google Cloud](https://www.skills.google/course_templates/388) | Completion badge |
-| Google Skills | [Introduction to Image Generation](https://www.skills.google/course_templates/541) | Completion badge |
-| Google Skills | [Digital Transformation with Google Cloud](https://www.skills.google/course_templates/266) | Completion badge |
-| Google Skills | [Exploring Data Transformation with Google Cloud](https://www.skills.google/course_templates/267) | Completion badge |
-| Anthropic · Claude Academy | [AI Fluency: Framework and foundations](https://academy.claude.com/courses/ai-fluency-framework-foundations) | Completion badge |
-| Microsoft Learn | [Write your first C# code](https://learn.microsoft.com/en-us/training/modules/csharp-write-first/) | Module achievement |
-| Microsoft Learn | [Introduction to web development using Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/get-started-with-web-development/) | Module achievement |
-| Microsoft Learn | [Web accessibility fundamentals](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility/) | Module achievement |
-| Microsoft Learn | [Introduction to Git](https://learn.microsoft.com/en-us/training/modules/intro-to-git/) | Module achievement |
-| Microsoft Learn | [Prepare for an AI development project](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/) | Module achievement; Azure deployment lab pending |
-
-### Formación en curso · Continuing learning
-
-**Python programming**, **cybersecurity fundamentals**, **network security** and **backend development** are continuing study areas. My current practice focuses on functions, control flow, secure data handling and accessible web interfaces.
-
----
-
-<div align="center">
-
-## `> what.i.build`
-
-</div>
+## 🧩 Qué construyo
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Artificial Intelligence
-
-AI assistants, intelligent workflows, research support tools and AI-powered educational experiences.
+### 🤖 Inteligencia artificial
+Asistentes, flujos inteligentes y herramientas de apoyo a la investigación.
 
 </td>
-
 <td width="50%" valign="top">
 
-### 📚 Library Technology
-
-Digital library services, repository automation, chatbots, catalog systems and user-facing tools.
+### 📚 Tecnología para bibliotecas
+Servicios digitales, automatización de repositorios, chatbots y catálogos.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Data & Analytics
-
-Statistical engines, dashboards, data transformation and browser-based analysis.
+### 📊 Datos y analítica
+Motores estadísticos, dashboards y análisis directamente en el navegador.
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🔎 Bibliometrics
-
-Research metrics, bibliographic analysis, H-index, scientific production and visualization.
+### 🔎 Bibliometría
+H-index, producción científica, Lotka, Bradford y visualización.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Automation
-
-APIs, n8n, Google services and automated workflows designed to eliminate repetitive tasks.
+### ⚙️ Automatización
+APIs, n8n y servicios de Google para eliminar tareas repetitivas.
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🌐 Web Applications
-
-Fast, accessible and browser-native applications designed around real user needs.
+### 🌐 Aplicaciones web
+Rápidas, accesibles y pensadas para usuarios reales.
 
 </td>
 </tr>
@@ -206,254 +121,229 @@ Fast, accessible and browser-native applications designed around real user needs
 
 ---
 
-<div align="center">
-
-## `> featured.projects`
-
-</div>
+## 🚀 Proyectos destacados
 
 <table>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### 📊 AnalisisCuant
+**Motor de estadística cuantitativa, 100% en el navegador.**
 
-**Quantitative statistics engine — 100% browser-based.**
+Descriptivos, pruebas t, ANOVA, correlaciones, alfa de Cronbach y regresión.
 
-Descriptive statistics, t-tests, ANOVA, correlations, Cronbach's Alpha and regression.
+`JavaScript` `Chart.js` `Sin backend`
 
-`JavaScript` `Statistics` `Chart.js` `No Backend`
-
-<br>
-
-<a href="https://github.com/REKOL08/AnalisisCuant">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/REKOL08/AnalisisCuant"><img src="https://img.shields.io/badge/VER_PROYECTO-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 📚 BibliometriX
+**Análisis bibliométrico en el navegador.**
 
-**Bibliometric analysis directly in the browser.**
+Exportaciones de Scopus / Web of Science, índices h y g, leyes de Lotka y Bradford, coautoría.
 
-Tools for Scopus / Web of Science exports, h-index, g-index, Lotka's Law, Bradford's Law and co-authorship analysis.
+`Bibliometría` `Visualización` `Scopus`
 
-`Bibliometrics` `Visualization` `Scopus` `No Backend`
-
-<br>
-
-<a href="https://github.com/REKOL08/BibliometriX">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/REKOL08/BibliometriX"><img src="https://img.shields.io/badge/VER_PROYECTO-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🤖 Librín
+**Chatbot de biblioteca con IA y sistema de reservas.**
 
-**AI Library Chatbot & Reservation System.**
+Disponibilidad, renovaciones, reservas y rutas por sede.
 
-Book availability, renewals, reservations, campus-aware routing and automated workflows.
+`Node.js` `n8n` `Google Sheets` `IA`
 
-`Node.js` `n8n` `Google Sheets` `AI`
-
-<br>
-
-<a href="https://github.com/REKOL08/chatbot">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/REKOL08/chatbot"><img src="https://img.shields.io/badge/VER_PROYECTO-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 📈 Estadincho
+**Plataforma de visualización interactiva.**
 
-**Interactive data visualization platform.**
+Sube un Excel o CSV y obtén un dashboard sin escribir código.
 
-Upload Excel or CSV files and transform raw data into an interactive dashboard without writing code.
+`Python` `Dashboard`
 
-`Python` `Data Visualization` `Dashboard`
-
-<br>
-
-<a href="https://github.com/REKOL08/estadincho-gen-v5">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/REKOL08/estadincho-gen-v5"><img src="https://img.shields.io/badge/VER_PROYECTO-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🗂️ Digitk
+**Automatización de cargue al repositorio institucional.**
 
-**Institutional Repository Upload Automation.**
+Formularios, procesamiento de PDF, organización en Drive y notificaciones.
 
-Web forms, PDF processing, Google Drive organization and automated notifications.
+`Apps Script` `Automatización`
 
-`Google Apps Script` `Automation` `Repository`
-
-<br>
-
-<a href="https://github.com/REKOL08/digitk-cargue-repositorio">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/REKOL08/digitk-cargue-repositorio"><img src="https://img.shields.io/badge/VER_PROYECTO-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🔢 Generador Índice H
+### 🖥️ RemoteDesk
+**Controla tu PC desde el navegador del celular.**
 
-**H-index calculation utility.**
+Mouse, teclado y pantalla en vivo por WebSocket, sin instalar app.
 
-A lightweight tool for calculating an author's H-index.
+`Python` `WebSocket`
 
-`HTML` `JavaScript` `Bibliometrics`
-
-<br>
-
-<a href="https://github.com/REKOL08/Generador-ndice-H">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/REKOL08/remotedesk"><img src="https://img.shields.io/badge/VER_PROYECTO-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
-
 </tr>
+<tr>
+<td width="50%" valign="top">
 
+### 🎓 Aula universitaria Colombia
+**Herramientas abiertas, sin instalación.**
+
+Consultas, ejercicios paso a paso, estadística y conversión de unidades.
+
+`HTML` `JavaScript`
+
+<a href="https://github.com/REKOL08/aula-universitaria-colombia"><img src="https://img.shields.io/badge/VER_PROYECTO-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Laboratorio de matching RRHH
+**Compatibilidad candidato–vacante.**
+
+Índice por competencias, experiencia y formación, 100% en el navegador.
+
+`HTML` `JavaScript`
+
+<a href="https://github.com/REKOL08/laboratorio-matching-rrhh"><img src="https://img.shields.io/badge/VER_PROYECTO-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
 </table>
 
 ---
 
+## 🌐 ALLSoft
+
 <div align="center">
 
-## `> allsoft`
-
-<br>
-
-<a href="https://allsoft.pages.dev">
-<img src="./logo-mark.png" width="135" alt="ALLSoft"/>
-</a>
-
-<br><br>
+<a href="https://allsoft.pages.dev"><img src="./logo-mark.png" width="120" alt="ALLSoft"/></a>
 
 ### `FROM DREAM TO CREATION`
 
-**The product is live.**
+**El producto ya está en línea.** Software a la medida y automatización para pequeños negocios en Pereira, Colombia.
 
-Custom software and automation for small businesses in Pereira, Colombia.
-Everything that can be given away, is given away.
-
-<br>
-
-<a href="https://allsoft.pages.dev">
-<img src="https://img.shields.io/badge/allsoft.pages.dev-2563EB?style=for-the-badge&logo=cloudflare&logoColor=white"/>
-</a>
+<a href="https://allsoft.pages.dev"><img src="https://img.shields.io/badge/allsoft.pages.dev-2563EB?style=for-the-badge&logo=cloudflare&logoColor=white"/></a>
 
 <br><br>
 
-<a href="https://allsoft.pages.dev/paquetes"><b>12 free n8n automations</b></a>
+<a href="https://allsoft.pages.dev/paquetes"><b>12 automatizaciones n8n gratis</b></a>
 &nbsp;·&nbsp;
-<a href="https://allsoft.pages.dev/academia/"><b>10 step-by-step guides</b></a>
+<a href="https://allsoft.pages.dev/academia/"><b>10 guías paso a paso</b></a>
 &nbsp;·&nbsp;
-<a href="https://allsoft.pages.dev/desarrollos/"><b>10 systems built</b></a>
-
-<br><br>
-
-`AI`  ·  `Automation`  ·  `Custom software`
+<a href="https://allsoft.pages.dev/desarrollos/"><b>10 sistemas construidos</b></a>
 
 </div>
 
 ---
 
-<div align="center">
-
-## `> experience`
-
-</div>
+## 💼 Experiencia
 
 ### Fundación Universitaria del Área Andina — Areandina
-
-**AI Developer · Technical Library Specialist**
-`BIDIG · Library Innovation Team`
-
-Working at the intersection of technology, libraries, data and artificial intelligence.
+**AI Developer · Technical Library Specialist** &nbsp;`BIDIG · Library Innovation Team`
 
 ```text
                     LIBRARY TECHNOLOGY
                            │
           ┌────────────────┼────────────────┐
-          │                │                │
           ▼                ▼                ▼
          AI              DATA          AUTOMATION
-          │                │                │
           └────────────────┼────────────────┘
-                           │
                            ▼
                   RESEARCH TECHNOLOGY
-                           │
                            ▼
-                     REAL USERS
+                      REAL USERS
 ```
 
-### Main areas
+- 🤖 Asistentes de IA y chatbots
+- 📚 Servicios digitales de biblioteca
+- ⚙️ Automatización de flujos de trabajo
+- 📊 Análisis y visualización de datos
+- 🔎 Herramientas bibliométricas
+- 🗂️ Flujos del repositorio institucional
 
-* 🤖 AI assistants and chatbots
-* 📚 Digital library services
-* ⚙️ Workflow automation
-* 📊 Data analysis and visualization
-* 🔎 Bibliometric tools
-* 🗂️ Institutional repository workflows
-* 🎓 Research support technology
-* 🌐 Browser-based applications
-
----
-
-<div align="center">
-
-## `> currently.building`
-
-</div>
+### 🔨 Construyendo ahora
 
 ```yaml
 now:
-  - Koha REST API integration
-  - Real-time catalog access for Librín
-  - Odilo e-learning experiences
-  - Estadincho visualization layer
-  - AI tools for library services
-  - Research technology
-  - Bibliometric utilities
+  - Integración con la API REST de Koha
+  - Acceso al catálogo en tiempo real para Librín
+  - Experiencias e-learning en Odilo
+  - Capa de visualización de Estadincho
+  - Herramientas de IA para servicios de biblioteca
   - 50 Projects Challenge
 
-philosophy:
-  - build
-  - test
-  - automate
-  - document
-  - improve
+philosophy: [build, test, automate, document, improve]
 ```
 
 ---
 
-<div align="center">
+## 🎓 Formación
 
-## `> contribution.matrix`
+<details>
+<summary><b>📖 Competencias en desarrollo</b></summary>
 
 <br>
+
+| Área | Alcance | Palabras clave |
+| --- | --- | --- |
+| IA generativa | Fundamentos de LLM, diseño de prompts, modelos de difusión y evaluación de salidas | `Generative AI` · `LLMs` · `Prompt Engineering` |
+| IA responsable | Colaboración humano–IA, gobernanza, transparencia y revisión crítica | `Responsible AI` · `AI Fluency` |
+| Nube y datos | Transformación digital, modelos de servicio en la nube y gobierno de datos | `Google Cloud` · `Data Fundamentals` |
+| Automatización | Funciones personalizadas en hojas de cálculo y normalización de datos | `Apps Script` · `Google Sheets` · `JavaScript` |
+| Programación y web | Python, C#, interfaces HTML/CSS/JavaScript | `Python` · `C#` · `HTML` · `CSS` |
+| Accesibilidad web | HTML semántico, contraste y navegación por teclado | `a11y` · `Semantic HTML` |
+
+**En curso:** Python, ciberseguridad, seguridad de redes y desarrollo backend.
+
+</details>
+
+<details>
+<summary><b>🏅 Credenciales obtenidas (octubre 2026)</b></summary>
+
+<br>
+
+| Proveedor | Curso o módulo | Reconocimiento |
+| --- | --- | --- |
+| Google Skills | [Introduction to Generative AI](https://www.skills.google/course_templates/536) | Insignia |
+| Google Skills | [Introduction to Large Language Models](https://www.skills.google/course_templates/539) | Insignia |
+| Google Skills | [Responsible AI: Applying AI Principles with Google Cloud](https://www.skills.google/course_templates/388) | Insignia |
+| Google Skills | [Introduction to Image Generation](https://www.skills.google/course_templates/541) | Insignia |
+| Google Skills | [Digital Transformation with Google Cloud](https://www.skills.google/course_templates/266) | Insignia |
+| Google Skills | [Exploring Data Transformation with Google Cloud](https://www.skills.google/course_templates/267) | Insignia |
+| Anthropic · Claude Academy | [AI Fluency: Framework and foundations](https://academy.claude.com/courses/ai-fluency-framework-foundations) | Insignia |
+| Microsoft Learn | [Write your first C# code](https://learn.microsoft.com/en-us/training/modules/csharp-write-first/) | Módulo |
+| Microsoft Learn | [Introduction to web development using Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/get-started-with-web-development/) | Módulo |
+| Microsoft Learn | [Web accessibility fundamentals](https://learn.microsoft.com/en-us/training/modules/web-development-101-accessibility/) | Módulo |
+| Microsoft Learn | [Introduction to Git](https://learn.microsoft.com/en-us/training/modules/intro-to-git/) | Módulo |
+| Microsoft Learn | [Prepare for an AI development project](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/) | Módulo; laboratorio Azure pendiente |
+
+</details>
+
+---
+
+## 📈 Actividad
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/REKOL08/REKOL08/output/github-contribution-grid-snake-dark.svg">
@@ -461,106 +351,57 @@ philosophy:
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/REKOL08/REKOL08/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
-</div>
-
----
-
-<div align="center">
-
-## `> profile.activity`
-
-<br>
+<br><br>
 
 <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="GitHub profile details"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `> github.metrics`
 
 <br>
 
 <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub statistics"/>
 <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most used languages by commits"/>
 
-<br>
-
 <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repositories per language"/>
 <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive time"/>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-## `> coding.streak`
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=REKOL08&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="70%" alt="GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=REKOL08&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8" width="70%" alt="GitHub streak"/>
 
 </div>
 
 ---
 
+## 💡 Filosofía
+
 <div align="center">
-
-## `> philosophy`
-
-<br>
 
 ```text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║  If technology can remove a repetitive task             ║
-║  → AUTOMATE IT.                                         ║
-║                                                          ║
-║  If data can answer the question                         ║
-║  → VISUALIZE IT.                                        ║
-║                                                          ║
-║  If AI can improve the workflow                          ║
-║  → INTEGRATE IT.                                        ║
-║                                                          ║
-║  If the user needs to understand the complexity         ║
-║  → SIMPLIFY IT.                                         ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+ Si la tecnología puede quitar una tarea repetitiva   →  AUTOMATÍZALA.
+ Si los datos pueden responder la pregunta            →  VISUALÍZALOS.
+ Si la IA puede mejorar el flujo de trabajo           →  INTÉGRALA.
+ Si el usuario necesita entender lo complejo          →  SIMPLIFÍCALO.
 ```
 
-### Building technology that makes information easier to use.
+### Construyendo tecnología que hace la información más fácil de usar.
 
 </div>
 
 ---
 
+## 📬 Contacto
+
 <div align="center">
 
-## `> connect()`
+<a href="https://orcid.org/0009-0007-1830-1054"><img src="https://img.shields.io/badge/ORCID-0369A1?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+<a href="https://linkedin.com/in/alejandro-labrada-jimenez-a79768253"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/REKOL08"><img src="https://img.shields.io/badge/GitHub-1E40AF?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=35&lines=AI+%C3%97+DATA+%C3%97+LIBRARIES+%C3%97+AUTOMATION;Build+something+useful.;The+dream+started+here." alt="Closing animation"/>
 
 <br>
 
-<a href="https://orcid.org/0009-0007-1830-1054">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/alejandro-labrada-jimenez-a79768253">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/REKOL08">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=35&lines=AI+%C3%97+DATA+%C3%97+LIBRARIES+%C3%97+AUTOMATION;Build+something+useful.;The+dream+started+here." alt="Closing animation"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0b1f4d,100:0ea5e9&height=120&section=footer" width="100%"/>
 
 </div>
