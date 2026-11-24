@@ -15,9 +15,15 @@
 
 <img src="./assets/stats.svg" width="100%" alt="Repositorios, estrellas, automatizaciones y sistemas"/>
 
+<img src="./assets/j1.svg" width="100%" alt="Jarvis"/>
+
 <img src="./assets/stack.svg" width="100%" alt="Tech stack"/>
 
+<img src="./assets/j2.svg" width="100%" alt="Jarvis"/>
+
 <img src="./assets/ai.svg" width="100%" alt="Artificial Intelligence × Libraries"/>
+
+<img src="./assets/j3.svg" width="100%" alt="Jarvis"/>
 
 </div>
 
@@ -122,6 +128,8 @@ Consultas, ejercicios paso a paso y estadística.
 </tr>
 </table>
 
+<img src="./assets/j4.svg" width="100%" alt="Jarvis"/>
+
 <img src="./assets/h-allsoft.svg" width="100%" alt="ALLSoft"/>
 
 <div align="center">
@@ -135,6 +143,8 @@ Consultas, ejercicios paso a paso y estadística.
 <a href="https://allsoft.pages.dev/desarrollos/"><b>10 sistemas construidos</b></a>
 
 </div>
+
+<img src="./assets/j5.svg" width="100%" alt="Jarvis"/>
 
 <img src="./assets/h-experience.svg" width="100%" alt="Experiencia"/>
 
@@ -154,6 +164,8 @@ building_now:
   - 50 Projects Challenge
 philosophy: [build, test, automate, document, improve]
 ```
+
+<img src="./assets/j6.svg" width="100%" alt="Jarvis"/>
 
 <img src="./assets/h-learning.svg" width="100%" alt="Formación"/>
 
@@ -196,6 +208,8 @@ philosophy: [build, test, automate, document, improve]
 | Microsoft Learn | [Prepare for an AI development project](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/) | Módulo; laboratorio Azure pendiente |
 
 </details>
+
+<img src="./assets/j7.svg" width="100%" alt="Jarvis"/>
 
 <img src="./assets/h-activity.svg" width="100%" alt="Actividad"/>
 
